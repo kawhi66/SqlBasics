@@ -1,0 +1,14 @@
+{
+  "name": "sql-basics",
+  "version": "0.0.1",
+  "description": "sql basics",
+  "main": "index.js",
+  "repository": "git@github.com:kawhi66/SqlBasics.git",
+  "author": "https://kawhi.site",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
